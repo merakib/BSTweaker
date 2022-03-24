@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: 'Any issue or glitch'
+labels: '0965'
+assignees: 'verified'
 
 ---
 
@@ -12,9 +12,9 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+1. Go to 'BSTweaker5'
+2. Click on 'Log folder'
+3. Click to 'bst.log.catch.txt'
 4. See error
 
 **Expected behavior**
