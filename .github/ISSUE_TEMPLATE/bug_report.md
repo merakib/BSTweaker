@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'Any issue or glitch'
-labels: '0965'
+labels: '01'
 assignees: 'verified'
 
 ---
@@ -35,4 +35,4 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+No additional command to show!
