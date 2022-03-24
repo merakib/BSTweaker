@@ -1,5 +1,4 @@
 # BSTweaker
-A simple tweaker 
 A simple tweaker for bluestacks app player/MSI app player
 You can also download from the official website | here :
 https://bstweaker.tk/
