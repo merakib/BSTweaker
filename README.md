@@ -1,8 +1,8 @@
 # BSTweaker
 A simple tweaker for bluestacks app player/MSI app player |
 This is a test version(BETA) |
-You can also download from the official website | here :
-https://bstweaker.tk/
+You can also download from the official website, here :
+https://bstweaker.tk/ |
 All versions of BSTweaker: Google Drive
 https://drive.google.com/open?id=0B1ef6n6F8HSZdzhaZnVqeU1vd2s
 6.8.6 // 12.03.2022
