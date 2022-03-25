@@ -57,11 +57,10 @@ https://drive.google.com/open?id=0B1ef6n6F8HSZdzhaZnVqeU1vd2s
 6.7.2 // 16.01.2021
 - Added support for BlueStacks 4.260
 - Added support for MEmu 7.3
-6.7.1 // 19.12.2020
 
-#5.16.10
+- #5.16.10
 
-5.16.1 // 11.02.2020
+- 5.16.1 // 11.02.2020
 - Fixed a small bug
 5.16.1 // 11.02.2020
 - Fixed a small bug
