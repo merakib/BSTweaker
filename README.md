@@ -1,8 +1,9 @@
 # BSTweaker
 A simple tweaker for bluestacks app player/MSI app player
+This is a test version(BETA) |
 You can also download from the official website | here :
 https://bstweaker.tk/
-All previous versions of BSTweaker: Google Drive
+All versions of BSTweaker: Google Drive
 https://drive.google.com/open?id=0B1ef6n6F8HSZdzhaZnVqeU1vd2s
 6.8.6 // 12.03.2022
 - Support for BlueStacks 5.6
@@ -58,6 +59,7 @@ https://drive.google.com/open?id=0B1ef6n6F8HSZdzhaZnVqeU1vd2s
 - Added support for MEmu 7.3
 6.7.1 // 19.12.2020
 - 
+#5.16.10
 5.16.1 // 11.02.2020
 - Fixed a small bug
 5.16.1 // 11.02.2020
