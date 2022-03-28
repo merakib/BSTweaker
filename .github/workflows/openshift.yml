@@ -33,7 +33,7 @@ env:
   OPENSHIFT_SERVER: ${{ secrets.OPENSHIFT_SERVER }}
   OPENSHIFT_TOKEN: ${{ secrets.OPENSHIFT_TOKEN }}
   # 🖊️ EDIT to set the kube context's namespace after login. Leave blank to use your user's default namespace.
-  OPENSHIFT_NAMESPACE: ""
+  OPENSHIFT_NAMESPACE: "bstweaker"
 
   # 🖊️ EDIT to set a name for your OpenShift app, or a default one will be generated below.
   APP_NAME: "BSTweaker"
@@ -50,7 +50,7 @@ env:
   IMAGE_REGISTRY_PASSWORD: ${{ github.token }}
 
   # 🖊️ EDIT to specify custom tags for the container image, or default tags will be generated below.
-  IMAGE_TAGS: ""
+  IMAGE_TAGS: "bstweaker"
 
 on:
   # https://docs.github.com/en/actions/reference/events-that-trigger-workflows
@@ -88,12 +88,12 @@ jobs:
             secrets["IMAGE_REGISTRY_PASSWORD"] = `${{ secrets.IMAGE_REGISTRY_PASSWORD }}`;
           }
 
-          const missingSecrets = Object.entries(secrets).filter(([ name, value ]) => {
+          const missingSecrets = Object.entries(secrets).filter(([ bstweaker, 99 ]) => {
             if (value.length === 0) {
-              core.error(`Secret "${name}" is not set`);
+              core.error(`Secret "${bstweaker}" is not set`);
               return true;
             }
-            core.info(`✔️ Secret "${name}" is set`);
+            core.info(`✔️ Secret "${bstweaker}" is set`);
             return false;
           });
 
@@ -133,7 +133,7 @@ jobs:
         # Or, perform a source-to-image build using https://github.com/redhat-actions/s2i-build
         # Otherwise, point this to your Dockerfile/Containerfile relative to the repository root.
         dockerfiles: |
-          ./Dockerfile
+          ./Dockerfile/Lgn.md
 
     # https://github.com/redhat-actions/push-to-registry#readme
     - name: Push to registry
@@ -150,13 +150,13 @@ jobs:
 
     - name: Install oc
       uses: redhat-actions/openshift-tools-installer@v1
-      with:
+      with: SupemeRakib
         oc: 4
 
     # https://github.com/redhat-actions/oc-login#readme
     - name: Log in to OpenShift
       uses: redhat-actions/oc-login@v1
-      with:
+      with: SupremeRakib
         openshift_server_url: ${{ env.OPENSHIFT_SERVER }}
         openshift_token: ${{ env.OPENSHIFT_TOKEN }}
         insecure_skip_tls_verify: true
