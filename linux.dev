@@ -1,8 +1,12 @@
 You will first need to configure our debian repository:
 
-#curl -sS https://download.spotify.com/debian/pubkey_5E3C45D7B312C643.gpg | sudo apt-key add - 
-echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+#curl -sS https://github.com/SupremeRakib/BSTweaker/releases/tag/5.16.10 /debian/pubkey_5E3C45D7B312C643.gpg | sudo apt-key add - 
+echo "deb https://github.com/SupremeRakib/BSTweaker/releases/download/5.16.10/BSTweaker51610.zip" | sudo tee /etc/apt/sources.list.d/bstweaker.list
 
-Then you can install the Spotify client:
+Then you can install the bstweaker client:
 
-#sudo apt-get update && sudo apt-get install spotify-client
+#sudo apt-get update && sudo apt-get install bstweaker-client
+
+Then restart your pc after install
+
+Done!
