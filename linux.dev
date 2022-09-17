@@ -1,7 +1,7 @@
 You will first need to configure our debian repository:
 
-#curl -sS https://github.com/SupremeRakib/BSTweaker/releases/tag/5.16.10 /debian/pubkey_5E3C45D7B312C643.gpg | sudo apt-key add - 
-echo "deb https://github.com/SupremeRakib/BSTweaker/releases/download/5.16.10/BSTweaker51610.zip" | sudo tee /etc/apt/sources.list.d/bstweaker.list
+#curl -sS https://github.com/merakib/BSTweaker/releases/tag/5.16.10 /debian/pubkey_5E3C45D7B312C643.gpg | sudo apt-key add - 
+echo "deb https://github.com/merakib/BSTweaker/releases/download/5.16.10/BSTweaker51610.zip" | sudo tee /etc/apt/sources.list.d/bstweaker.list
 
 Then you can install the bstweaker client:
 
