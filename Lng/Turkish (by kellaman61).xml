@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<Lng xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tabs>
+    <Main>Ana</Main>
+    <Settings>Ayarlar</Settings>
+    <Config>Yapılandırma</Config>
+    <Helpers>Yardımcılar</Helpers>
+    <Utils>Yararlı Araçlar</Utils>
+    <Backup>Yedek</Backup>
+    <FileManager>Dosya Yöneticisi</FileManager>
+    <Oem>Oem</Oem>
+  </Tabs>
+  <GroupBoxes>
+    <Info>Bilgi</Info>
+    <Actions>Eylemler</Actions>
+    <DiskSize>Disk Boyutu</DiskSize>
+    <Services>Hizmetler</Services>
+    <GUID>GUID</GUID>
+    <CalculatedValues>Hesaplanan Değerler</CalculatedValues>
+    <Resolution>Çözünürlük</Resolution>
+    <Phone>Telefon</Phone>
+    <RAM>RAM</RAM>
+    <CompressData>Verileri Sıkıştır</CompressData>
+    <Profiles>Profiller</Profiles>
+    <FactoryReset>Fabrika Ayarları</FactoryReset>
+    <FactoryResetWipe>Tam Sıfırlama &amp;&amp; Veri + SDCard Yeniden Boyutlandır</FactoryResetWipe>
+    <CheckForUpdBST>BSTweaker. Güncellemeleri Kontrol Et</CheckForUpdBST>
+    <Autocheck>Güncelleştirme Kontrolü</Autocheck>
+  </GroupBoxes>
+  <Columns>
+    <Name>İsim</Name>
+    <SLength>Boyut</SLength>
+    <Attr>Nitelik</Attr>
+    <Owner>Sahip</Owner>
+    <Group>Grup</Group>
+    <ProfileActive>Aktif</ProfileActive>
+    <ProfileName>İsim</ProfileName>
+    <ProfileDataDir>VeriYolu</ProfileDataDir>
+  </Columns>
+  <MenuItems>
+    <CreateFolder>Klasör Oluştur</CreateFolder>
+    <DeleteFolderFile>Dosyayı Sil</DeleteFolderFile>
+    <Rename>Yeniden Adlandır</Rename>
+    <ChangeOwner>Sahibi Değiştir</ChangeOwner>
+    <ChangePermissions>İzinleri Değiştir</ChangePermissions>
+    <GoToFolder>Klasöre Git</GoToFolder>
+    <System>Sistem</System>
+    <Data>Veri</Data>
+  </MenuItems>
+  <Buttons>
+    <Apply>Uygula</Apply>
+    <Read>Oku</Read>
+    <Change>Değiştir</Change>
+    <Refresh>Yenile</Refresh>
+    <ProfileLoad>Yükle</ProfileLoad>
+    <ProfileCreate>Oluştur</ProfileCreate>
+    <ProfileDelete>Sil</ProfileDelete>
+    <OpenFolder>Klasörü Aç</OpenFolder>
+    <Random>Rastgele</Random>
+    <UpFC>Önceki Dizin</UpFC>
+    <CopyFC>Kopyala</CopyFC>
+    <RefreshFC>Yenile</RefreshFC>
+    <ProgressCancel>İptal</ProgressCancel>
+    <DialogCancel>İptal</DialogCancel>
+    <GoTo>Git</GoTo>
+    <CheckUpd>Kontrol Et</CheckUpd>
+    <BackupSave>Kaydet</BackupSave>
+    <BackupLoad>Yükle</BackupLoad>
+    <Close>Kapat</Close>
+    <Unlock>Kilidini aç</Unlock>
+    <Shell>Shell</Shell>
+    <StartBS>BS'yi Başlat</StartBS>
+    <StopBS>BS'yi Durdur</StopBS>
+    <FullStopBS>BS'yi Tam Durdur</FullStopBS>
+    <ForceKillBS>BS'yi Zorla Durdur</ForceKillBS>
+    <WipeData>Verileri Sil (Wipe)</WipeData>
+    <WipeSDCard>SDCard'ı Sil (Wipe)</WipeSDCard>
+    <WipeDataResize>Verileri yeniden boyutlandır</WipeDataResize>
+    <WipeSDCardResize>SDCard'ı yeniden boyutlandır</WipeSDCardResize>
+    <HowTo>Nasıl?</HowTo>
+    <SuInstall>Install SuperSu</SuInstall>
+    <SuOpen>Open SuperSu</SuOpen>
+  </Buttons>
+  <Labels>
+    <StopBSForUse>Kullanmak için BlueStacks'i durdur!</StopBSForUse>
+    <StartBSForUse>Kullanmak için BlueStacks'i başlat!</StartBSForUse>
+    <GuestResolution>Konuk Çözünürlük</GuestResolution>
+    <RootForBlueStacks>BlueStacks'i Root'la</RootForBlueStacks>
+    <DisableWindowOfPurchase>Satın Alma Pencerisini (+ Büyük İlan) ve Tek Seferlik Kurulumu Devre Dışı Bırak</DisableWindowOfPurchase>
+    <DPI>DPI</DPI>
+    <DialogName>İsim</DialogName>
+    <DialogOwner>Sahip</DialogOwner>
+    <DialogGroup>Grup</DialogGroup>
+    <DialogOthers>Diğerleri</DialogOthers>
+    <DialogRead>Oku</DialogRead>
+    <DialogWrite>Yaz</DialogWrite>
+    <DialogExecute>Execute</DialogExecute>
+    <CopyRecommend>Başlamadan önce "Android" klasörünün bir kopyasını almanı tavsiye ederiz</CopyRecommend>
+    <RemovePreinstalledShortcuts>Önceden yüklenmiş kısayolları masaüstünden kaldır</RemovePreinstalledShortcuts>
+    <RemoveAppCenter>"Uygulama Merkezi" &amp;&amp; "Yardım Merkezi" Sekmelerini Kaldır</RemoveAppCenter>
+    <DisableLogRotatorSvc>BstHdLogLotatorSvc otomatik başlat</DisableLogRotatorSvc>
+    <IsAddGoLiveButton>Videoları İzle Butonu</IsAddGoLiveButton>
+    <IsAddChatButton>Sohbet Butonu</IsAddChatButton>
+    <IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>Sadece SysTrayMenu'de Dur</IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>
+    <IsGamePadEnabled>GamePad</IsGamePadEnabled>
+    <IsUseFrontendBanner>Ön Cephe Afiş (2.6 - 2.7)</IsUseFrontendBanner>
+    <RestartBStoApllyChanges>Değişiklikleri uygulamak için BlueStacks'i yeniden başlat</RestartBStoApllyChanges>
+    <RemoveGoogleSignin>Google oturum açmayı devre dışı bırak (tavsiye edilmez)</RemoveGoogleSignin>
+    <Instance>Örnek</Instance>
+    <IsGiftPackEnabled>Hediye Sekmesi</IsGiftPackEnabled>
+    <IsFriendsEnabled>Arkadaş Eklentisi</IsFriendsEnabled>
+    <IsWallpaperChangeAllowed>Duvar Kağıdı Değişimi</IsWallpaperChangeAllowed>
+    <WallPaperTempHack>Duvar Kağıdı Değişimi için Geçici Hack</WallPaperTempHack>
+    <DisableUpdater>Otomatik Güncelleyiciyi Devre Dışı Bırak</DisableUpdater>
+    <NotSupport>Bu sürüm {0}'i desteklemiyor!!!</NotSupport>
+    <ManualCheck>Manuel kontrol</ManualCheck>
+    <Premium>Premium</Premium>
+    <Promo>Promo</Promo>
+    <Theme>Tema</Theme>
+    <LoginWithGoogle>Google ile Giriş Yap</LoginWithGoogle>
+	<AppCenter>"Uygulama Merkezi" &amp;&amp; "Yardım Merkezi" Sekmeleri</AppCenter>
+	<DeviceModel>Device Model</DeviceModel>
+    <DeviceCountry>Country</DeviceCountry>
+    <DeviceOperator>Operator</DeviceOperator>	
+  </Labels>
+  <StaticStrings>
+    <Version>Sürüm</Version>
+    <ClientVersion>İstemci Sürümü</ClientVersion>
+    <ProgramDir>Program Dizini</ProgramDir>
+    <UserDataDir>Kullanıcı Veri Dizini</UserDataDir>
+    <BSRunning>BlueStacks</BSRunning>
+    <ADBConnected>ADB</ADBConnected>
+    <TotalRam>Toplam RAM</TotalRam>
+    <FreeSpace>Boş Alan</FreeSpace>
+    <AcceptDeleteFolder>Bu klasörü silmek istediğinden emin misin?</AcceptDeleteFolder>
+    <AcceptDeleteFile>Bu dosyayı silmek istediğinden emin misin?</AcceptDeleteFile>
+    <Before>Önce</Before>
+    <After>Sonra</After>
+    <EnableProfile>Etkinleştir</EnableProfile>
+    <UpdateProfile>Güncelle</UpdateProfile>
+    <NewVersion>Yeni sürüm bulundu</NewVersion>
+    <NoUpdate>Güncelleme bulunamadı</NoUpdate>
+    <RemoveInstances>Tüm ek örnekleri kaldır!</RemoveInstances>
+  </StaticStrings>
+  <CheckBoxes>
+    <EnableLog>Log Etkinleştir</EnableLog>
+    <DialogIncudeSubfolders>Tüm alt klasör ve dosyalarda ayarla</DialogIncudeSubfolders>
+    <DontSetExecuteChild>Alt dosyalarda yürütmeyi ayarlama</DontSetExecuteChild>
+    <InstanceChild>With childs (Alttakiler ile)</InstanceChild>
+    <LockFactoryReset>Kilit</LockFactoryReset>
+  </CheckBoxes>
+  <RadioButtons>
+    <Every1Day>Günde 1 kez</Every1Day>
+    <Every7Day>Haftada 1 kez</Every7Day>
+    <Every30Day>Ayda 1 kez</Every30Day>
+    <EveryDayOff>Otomatik kontrolü devre dışı bırak</EveryDayOff>
+  </RadioButtons>
+</Lng>

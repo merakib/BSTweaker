@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<Lng xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tabs>
+    <Main>Main</Main>
+    <Settings>Settings</Settings>
+    <Config>Config</Config>
+    <Helpers>Helpers</Helpers>
+    <Utils>Utils</Utils>
+    <Backup>Backup</Backup>
+    <FileManager>FM</FileManager>
+    <Oem>Oem</Oem>
+  </Tabs>
+  <GroupBoxes>
+    <Info>Info</Info>
+    <Actions>Actions</Actions>
+    <DiskSize>Disk Size</DiskSize>
+    <Services>Services</Services>
+    <GUID>GUID</GUID>
+    <CalculatedValues>Calculated values</CalculatedValues>
+    <Resolution>Resolution</Resolution>
+    <Phone>Phone</Phone>
+    <RAM>RAM</RAM>
+    <CompressData>Compress data</CompressData>
+    <Profiles>Profiles</Profiles>
+    <FactoryReset>Factory reset</FactoryReset>
+    <FactoryResetWipe>Total Reset &amp;&amp; Resize Data + SDCard</FactoryResetWipe>
+    <CheckForUpdBST>BSTweaker. Check for updates.</CheckForUpdBST>
+    <Autocheck>Сheck for updates</Autocheck>
+  </GroupBoxes>
+  <Columns>
+    <Name>Name</Name>
+    <SLength>Size</SLength>
+    <Attr>Attr</Attr>
+    <Owner>Owner</Owner>
+    <Group>Group</Group>
+    <ProfileActive>Active</ProfileActive>
+    <ProfileName>Name</ProfileName>
+    <ProfileDataDir>DataDir</ProfileDataDir>
+  </Columns>
+  <MenuItems>
+    <CreateFolder>Create Folder</CreateFolder>
+    <DeleteFolderFile>Delete file</DeleteFolderFile>
+    <Rename>Rename</Rename>
+    <ChangeOwner>Change Owner</ChangeOwner>
+    <ChangePermissions>Change Permissions</ChangePermissions>
+    <GoToFolder>Go to Folder</GoToFolder>
+    <System>System</System>
+    <Data>Data</Data>
+  </MenuItems>
+  <Buttons>
+    <Apply>Apply</Apply>
+    <Read>Read</Read>
+    <Change>Change</Change>
+    <Refresh>Refresh</Refresh>
+    <ProfileLoad>Load</ProfileLoad>
+    <ProfileCreate>Create</ProfileCreate>
+    <ProfileDelete>Delete</ProfileDelete>
+    <OpenFolder>Open Folder</OpenFolder>
+    <Random>Random</Random>
+    <UpFC>Up</UpFC>
+    <CopyFC>Copy</CopyFC>
+    <RefreshFC>Refresh</RefreshFC>
+    <ProgressCancel>Cancel</ProgressCancel>
+    <DialogCancel>Cancel</DialogCancel>
+    <GoTo>Go To</GoTo>
+    <CheckUpd>Check</CheckUpd>
+    <BackupSave>Save</BackupSave>
+    <BackupLoad>Load</BackupLoad>
+    <Close>Close</Close>
+    <Unlock>Unlock</Unlock>
+    <Shell>Shell</Shell>
+    <StartBS>Start BS</StartBS>
+    <StopBS>Stop BS</StopBS>
+    <FullStopBS>Full Stop BS</FullStopBS>
+    <ForceKillBS>Force Kill BS</ForceKillBS>
+    <WipeData>Wipe data</WipeData>
+    <WipeSDCard>Wipe sdcard</WipeSDCard>
+    <WipeDataResize>Resize data</WipeDataResize>
+    <WipeSDCardResize>Resize sdcard</WipeSDCardResize>
+    <HowTo>How-To</HowTo>
+    <SuInstall>Install SuperSu</SuInstall>
+    <SuOpen>Open SuperSu</SuOpen>
+  </Buttons>
+  <Labels>
+    <StopBSForUse>Stop BlueStacks for use!</StopBSForUse>
+    <StartBSForUse>Start BlueStacks for use!</StartBSForUse>
+    <GuestResolution>Guest Resolution</GuestResolution>
+    <RootForBlueStacks>Root for BlueStacks</RootForBlueStacks>
+    <DisableWindowOfPurchase>Disable the Window of Purchase (+ the big Advert) and One Time Setup</DisableWindowOfPurchase>
+    <DPI>DPI</DPI>
+    <DialogName>Name</DialogName>
+    <DialogOwner>Owner</DialogOwner>
+    <DialogGroup>Group</DialogGroup>
+    <DialogOthers>Others</DialogOthers>
+    <DialogRead>Read</DialogRead>
+    <DialogWrite>Write</DialogWrite>
+    <DialogExecute>Execute</DialogExecute>
+    <CopyRecommend>Before start is recommended to make a copy of the folder "Android"</CopyRecommend>
+    <RemovePreinstalledShortcuts>Remove preinstalled shortcuts from the desktop</RemovePreinstalledShortcuts>
+    <RemoveAppCenter>Remove Tabs "App Center" &amp;&amp; "Help Center" </RemoveAppCenter>
+    <DisableLogRotatorSvc>BstHdLogLotatorSvc Autostart</DisableLogRotatorSvc>
+    <IsAddGoLiveButton>Button Watch Videos</IsAddGoLiveButton>
+    <IsAddChatButton>Button Chat</IsAddChatButton>
+    <IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>Only Stop in SysTrayMenu </IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>
+    <IsGamePadEnabled>GamePad</IsGamePadEnabled>
+    <IsUseFrontendBanner>Frontend Banner (2.6 - 2.7)</IsUseFrontendBanner>
+    <RestartBStoApllyChanges>Restart BlueStacks to apply changes</RestartBStoApllyChanges>
+    <RemoveGoogleSignin>Disable Google sign in (not recommended)</RemoveGoogleSignin>
+    <Instance>Instance</Instance>
+    <IsGiftPackEnabled>Tab Gift</IsGiftPackEnabled>
+    <IsFriendsEnabled>Addon Friends</IsFriendsEnabled>
+    <IsWallpaperChangeAllowed>Wallpaper Change</IsWallpaperChangeAllowed>
+    <WallPaperTempHack>Temporary Hack to change Wallpaper</WallPaperTempHack>
+    <DisableUpdater>Disable Autoupdater</DisableUpdater>
+    <NotSupport>This version {0} is not supported!!!</NotSupport>
+    <ManualCheck>Manual check</ManualCheck>
+    <Premium>Premium</Premium>
+    <Promo>Promo</Promo>
+    <Theme>Theme</Theme>
+    <LoginWithGoogle>Login with Google</LoginWithGoogle>
+    <AppCenter>Tabs "App Center" &amp;&amp; "Help Center"</AppCenter>
+    <DeviceModel>Device Model</DeviceModel>
+    <DeviceCountry>Country</DeviceCountry>
+    <DeviceOperator>Operator</DeviceOperator>
+  </Labels>
+  <StaticStrings>
+    <Version>Version</Version>
+    <ClientVersion>Client Version</ClientVersion>
+    <ProgramDir>Program Dir</ProgramDir>
+    <UserDataDir>User Data Dir</UserDataDir>
+    <BSRunning>BlueStacks</BSRunning>
+    <ADBConnected>ADB</ADBConnected>
+    <TotalRam>Total RAM</TotalRam>
+    <FreeSpace>Free</FreeSpace>
+    <AcceptDeleteFolder>Are you sure you want to delete this folder?</AcceptDeleteFolder>
+    <AcceptDeleteFile>Are you sure you want to delete this file?</AcceptDeleteFile>
+    <Before>Before</Before>
+    <After>After</After>
+    <EnableProfile>Enable</EnableProfile>
+    <UpdateProfile>Update</UpdateProfile>
+    <NewVersion>New version found</NewVersion>
+    <NoUpdate>No updates were found</NoUpdate>
+    <RemoveInstances>Remove all additional instances!</RemoveInstances>
+  </StaticStrings>
+  <CheckBoxes>
+    <EnableLog>EnableLog</EnableLog>
+    <DialogIncudeSubfolders>Set on all subfolders and files</DialogIncudeSubfolders>
+    <DontSetExecuteChild>Don`t set execute on child files</DontSetExecuteChild>
+    <InstanceChild>With childs</InstanceChild>
+    <LockFactoryReset>Lock</LockFactoryReset>
+  </CheckBoxes>
+  <RadioButtons>
+    <Every1Day>1 time per day</Every1Day>
+    <Every7Day>1 time per week</Every7Day>
+    <Every30Day>1 time per month</Every30Day>
+    <EveryDayOff>Disable autocheck</EveryDayOff>
+  </RadioButtons>
+</Lng>

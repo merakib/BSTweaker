@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<Lng xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tabs>
+    <Main>Principal</Main>
+    <Settings>Ajustes</Settings>
+    <Config>Configuraciones</Config>
+    <Helpers>Auxiliares</Helpers>
+    <Utils>Utilitarios</Utils>
+    <Backup>Backup</Backup>
+    <FileManager>Administrador de Archivos</FileManager>
+    <Oem>OEM</Oem>
+  </Tabs>
+  <GroupBoxes>
+    <Info>Información</Info>
+    <Actions>Acciones</Actions>
+    <DiskSize>Tamaño del Disco</DiskSize>
+    <Services>Servicios</Services>
+    <GUID>GUID</GUID>
+    <CalculatedValues>Valores Calculados</CalculatedValues>
+    <Resolution>Resolución</Resolution>
+    <Phone>Celular</Phone>
+    <RAM>RAM</RAM>
+    <CompressData>Comprimir Datos</CompressData>
+    <Profiles>Perfiles</Profiles>
+    <FactoryReset>Restauración de Fábrica</FactoryReset>
+    <FactoryResetWipe>Restauración Total &amp;&amp; Redimensionar Datos + SDCard</FactoryResetWipe>
+    <CheckForUpdBST>BSTweaker. Buscar Actualizaciones.</CheckForUpdBST>
+    <Autocheck>Buscar Actualizaciones</Autocheck>
+  </GroupBoxes>
+  <Columns>
+    <Name>Nombre</Name>
+    <SLength>Tamaño</SLength>
+    <Attr>Atribución</Attr>
+    <Owner>Propietario</Owner>
+    <Group>Grupo</Group>
+    <ProfileActive>Activo</ProfileActive>
+    <ProfileName>Nombre</ProfileName>
+    <ProfileDataDir>Directorio de Datos</ProfileDataDir>
+  </Columns>
+  <MenuItems>
+    <CreateFolder>Crear Carpeta</CreateFolder>
+    <DeleteFolderFile>Eliminar Fichero</DeleteFolderFile>
+    <Rename>Renombrar</Rename>
+    <ChangeOwner>Cambiar Propietario</ChangeOwner>
+    <ChangePermissions>Cambiar Permisos</ChangePermissions>
+    <GoToFolder>Ir a la Carpeta</GoToFolder>
+    <System>Sistema</System>
+    <Data>Datos</Data>
+  </MenuItems>
+  <Buttons>
+    <Apply>Aplicar</Apply>
+    <Read>Leer</Read>
+    <Change>Cambiar</Change>
+    <Refresh>Actualizar</Refresh>
+    <ProfileLoad>Cargar</ProfileLoad>
+    <ProfileCreate>Crear</ProfileCreate>
+    <ProfileDelete>Eliminar</ProfileDelete>
+    <OpenFolder>Abrir Carpeta</OpenFolder>
+    <Random>Aleatorio</Random>
+    <UpFC>Arriba</UpFC>
+    <CopyFC>Copiar</CopyFC>
+    <RefreshFC>Actualizar</RefreshFC>
+    <ProgressCancel>Cancelar</ProgressCancel>
+    <DialogCancel>Cancelar</DialogCancel>
+    <GoTo>Abrir</GoTo>
+    <CheckUpd>Verificar</CheckUpd>
+    <BackupSave>Guardar</BackupSave>
+    <BackupLoad>Cargar</BackupLoad>
+    <Close>Cerrar</Close>
+    <Unlock>Desbloquear</Unlock>
+    <Shell>Shell</Shell>
+    <StartBS>Abrir BS</StartBS>
+    <StopBS>Cerrar BS</StopBS>
+    <FullStopBS>Detener procesos de BS</FullStopBS>
+    <ForceKillBS>Forzar detención</ForceKillBS>
+    <WipeData>Eliminar Datos</WipeData>
+    <WipeSDCard>Eliminar SDCard</WipeSDCard>
+    <WipeDataResize>Redimensionar Datos</WipeDataResize>
+    <WipeSDCardResize>Redimensionar SDCard</WipeSDCardResize>
+    <HowTo>Ayuda</HowTo>
+    <SuInstall>Instalar SuperSu</SuInstall>
+    <SuOpen>Abrir SuperSu</SuOpen>
+  </Buttons>
+  <Labels>
+    <StopBSForUse>Fuerza la finalización de BlueStacks!</StopBSForUse>
+    <StartBSForUse>Inicia BlueStacks!</StartBSForUse>
+    <GuestResolution>Resolución de la Ventana</GuestResolution>
+    <RootForBlueStacks>Root para BlueStacks</RootForBlueStacks>
+    <DisableWindowOfPurchase>Desactiva la ventana de compra (+ publicidad) y la One-Time-Setup</DisableWindowOfPurchase>
+    <DPI>DPI</DPI>
+    <DialogName>Nombre</DialogName>
+    <DialogOwner>propietario</DialogOwner>
+    <DialogGroup>Grupo</DialogGroup>
+    <DialogOthers>Otros</DialogOthers>
+    <DialogRead>Leer</DialogRead>
+    <DialogWrite>Escribir</DialogWrite>
+    <DialogExecute>Ejecutar</DialogExecute>
+    <CopyRecommend>Antes de empezar se recomienda hacer una copia de la carpeta "Android"</CopyRecommend>
+    <RemovePreinstalledShortcuts>Elimina accesos directos preinstalados del Escritorio</RemovePreinstalledShortcuts>
+    <RemoveAppCenter>Eliminar Pestañas "App Center" &amp;&amp; "Help Center" </RemoveAppCenter>
+    <DisableLogRotatorSvc>Inicio automático de BstHdLogLotatorSvc</DisableLogRotatorSvc>
+    <IsAddGoLiveButton>Activar botón de Vídeos</IsAddGoLiveButton>
+    <IsAddChatButton>Activar botón de Chat</IsAddChatButton>
+    <IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>Detener solamente desde la barra de tareas</IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>
+    <IsGamePadEnabled>GamePad</IsGamePadEnabled>
+    <IsUseFrontendBanner>Logo Frontal (2.6 - 2.7)</IsUseFrontendBanner>
+    <RestartBStoApllyChanges>Reiniciar BlueStacks para aplicar los cambios</RestartBStoApllyChanges>
+    <RemoveGoogleSignin>Desactivar inicio de sesión de Google (no recomendado)</RemoveGoogleSignin>
+    <Instance>Instancia</Instance>
+    <IsGiftPackEnabled>Eliminar pestaña "Gifts"</IsGiftPackEnabled>
+    <IsFriendsEnabled>Add-on de Amigos</IsFriendsEnabled>
+    <IsWallpaperChangeAllowed>Permite cambiar el Fondo de Pantalla</IsWallpaperChangeAllowed>
+    <WallPaperTempHack>Hack temporal para cambiar el Fondo de Pantalla</WallPaperTempHack>
+    <DisableUpdater>Desactivar actualizaciones automáticas</DisableUpdater>
+    <NotSupport>Esta versión {0} no es compatible!!!</NotSupport>
+    <ManualCheck>Verificar manualmente</ManualCheck>
+    <Premium>Premium</Premium>
+    <Promo>Promociones</Promo>
+    <Theme>Temas</Theme>
+    <LoginWithGoogle>Iniciar sesión con Google</LoginWithGoogle>
+    <AppCenter>Eliminar pestañas "App Center" &amp;&amp; "Help Center"</AppCenter>
+    <DeviceModel>Modelo de Dispositivo</DeviceModel>
+    <DeviceCountry>País</DeviceCountry>
+    <DeviceOperator>Operador</DeviceOperator>
+  </Labels>
+  <StaticStrings>
+    <Version>Versión</Version>
+    <ClientVersion>Versión de Cliente</ClientVersion>
+    <ProgramDir>Ruta de BlueStacks</ProgramDir>
+    <UserDataDir>Ruta de Datos</UserDataDir>
+    <BSRunning>BlueStacks</BSRunning>
+    <ADBConnected>ADB</ADBConnected>
+    <TotalRam>RAM Total</TotalRam>
+    <FreeSpace>Espacio Libre</FreeSpace>
+    <AcceptDeleteFolder>Estás seguro de eliminar esta carpeta?</AcceptDeleteFolder>
+    <AcceptDeleteFile>Estás seguro de eliminar este archivo?</AcceptDeleteFile>
+    <Before>Antes</Before>
+    <After>Después</After>
+    <EnableProfile>Activar</EnableProfile>
+    <UpdateProfile>Actualizar</UpdateProfile>
+    <NewVersion>Nueva versión encontrada</NewVersion>
+    <NoUpdate>Ninguna actualización encontrada</NoUpdate>
+    <RemoveInstances>Eliminar todas las instancias adicionales!</RemoveInstances>
+  </StaticStrings>
+  <CheckBoxes>
+    <EnableLog>Activar Log</EnableLog>
+    <DialogIncudeSubfolders>Aplicar a todas la sub-carpetas y archivos</DialogIncudeSubfolders>
+    <DontSetExecuteChild>No ejecutar en sub-archivos</DontSetExecuteChild>
+    <InstanceChild>Incluir sub-archivos</InstanceChild>
+    <LockFactoryReset>Bloquear</LockFactoryReset>
+  </CheckBoxes>
+  <RadioButtons>
+    <Every1Day>1 vez por día</Every1Day>
+    <Every7Day>1 vez por semana</Every7Day>
+    <Every30Day>1 vez por mes</Every30Day>
+    <EveryDayOff>Desactivar verificación automática</EveryDayOff>
+  </RadioButtons>
+</Lng>

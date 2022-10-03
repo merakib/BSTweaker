@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<Lng xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tabs>
+    <Main>Menu'</Main>
+    <Settings>Impostazioni</Settings>
+    <Config>Configurazione</Config>
+    <Helpers>Strumenti</Helpers>
+    <Utils>Utili</Utils>
+    <Backup>Backup</Backup>
+    <FileManager>FM</FileManager>
+    <Oem>Oem</Oem>
+  </Tabs>
+  <GroupBoxes>
+    <Info>Info</Info>
+    <Actions>Azioni</Actions>
+    <DiskSize>Dimensioni Del Programma</DiskSize>
+    <Services>Processi</Services>
+    <GUID>Azioni</GUID>
+    <CalculatedValues>Valori Calcolati</CalculatedValues>
+    <Resolution>Risoluzione</Resolution>
+    <Phone>Dispositivo</Phone>
+    <RAM>RAM</RAM>
+    <CompressData>Compressione Dati</CompressData>
+    <Profiles>Profilo</Profiles>
+    <FactoryReset>Ripristino Dati</FactoryReset>
+    <FactoryResetWipe>Ripristino Totale e Gestione Dimensioni Dati + Scheda SD</FactoryResetWipe>
+    <CheckForUpdBST>BSTweaker. Ricerca Di Aggiornamenti.</CheckForUpdBST>
+    <Autocheck>Autodiagnosi Aggiornamenti</Autocheck>
+  </GroupBoxes>
+  <Columns>
+    <Name>Nome</Name>
+    <SLength>Dimensioni</SLength>
+    <Attr>Attributi</Attr>
+    <Owner>Proprieta'</Owner>
+    <Group>Grouppo</Group>
+    <ProfileActive>Attivo</ProfileActive>
+    <ProfileName>Nome</ProfileName>
+    <ProfileDataDir>Indice Dei Dati</ProfileDataDir>
+  </Columns>
+  <MenuItems>
+    <CreateFolder>Crea Cartella</CreateFolder>
+    <DeleteFolderFile>Cancella File</DeleteFolderFile>
+    <Rename>Rinomina</Rename>
+    <ChangeOwner>Modifica Proprieta'</ChangeOwner>
+    <ChangePermissions>Modifica Permessi</ChangePermissions>
+    <GoToFolder>Vai Alla Cartella</GoToFolder>
+  </MenuItems>
+  <Buttons>
+    <Apply>Applica</Apply>
+    <Read>Reset</Read>
+    <Change>Cambia</Change>
+    <Refresh>Ricarica</Refresh>
+    <ProfileLoad>Caricamento</ProfileLoad>
+    <ProfileCreate>Crea</ProfileCreate>
+    <ProfileDelete>Cancella</ProfileDelete>
+    <OpenFolder>Apri Cartella</OpenFolder>
+    <Random>Casuale</Random>
+    <UpFC>Indietro</UpFC>
+    <CopyFC>Sposta</CopyFC>
+    <RefreshFC>Ricarica</RefreshFC>
+    <ProgressCancel>Cancella</ProgressCancel>
+    <DialogCancel>Cancella</DialogCancel>
+    <GoTo>Sfoglia</GoTo>
+    <CheckUpd>Controlla</CheckUpd>
+    <BackupSave>Salva</BackupSave>
+    <BackupLoad>Carica</BackupLoad>
+    <Close>Chiudi</Close>
+    <Unlock>Sblocca</Unlock>
+    <Shell>cmd.exe</Shell>
+    <StartBS>Avvia BS</StartBS>
+    <StopBS>Chiudi BS</StopBS>
+    <FullStopBS>Arr. BS + S.</FullStopBS>
+    <ForceKillBS>Arr. BS + Pr.</ForceKillBS>
+    <WipeData>Pulisci dati</WipeData>
+    <WipeSDCard>Pulisci sdcard</WipeSDCard>
+    <WipeDataResize>Spazio dati</WipeDataResize>
+    <WipeSDCardResize>Spazio sdcard</WipeSDCardResize>
+    <HowTo>Guida</HowTo>
+    <SuInstall>Install SuperSu</SuInstall>
+    <SuOpen>Open SuperSu</SuOpen>
+  </Buttons>
+  <Labels>
+    <StopBSForUse>Chiudi BlueStack Prima Di Utilizzare La Funzione!</StopBSForUse>
+    <StartBSForUse>Apri BS Per Utilizzare La Funzione!</StartBSForUse>
+    <GuestResolution>Scegli La Risoluzione</GuestResolution>
+    <RootForBlueStacks>Permessi Di Amministratore (root) Per BlueStack</RootForBlueStacks>
+    <DisableWindowOfPurchase>Disabilita Avvisi di Pagamento, pubblicitari e l'avviso "One Time Setup"</DisableWindowOfPurchase>
+    <DPI>DPI</DPI>
+    <DialogName>Nome</DialogName>
+    <DialogOwner>Proprieta'</DialogOwner>
+    <DialogGroup>Grouppo</DialogGroup>
+    <DialogOthers>Altro</DialogOthers>
+    <DialogRead>Leggi</DialogRead>
+    <DialogWrite>Scrivi</DialogWrite>
+    <DialogExecute>Esegui</DialogExecute>
+    <CopyRecommend>Prima di Iniziare e' Consigliabile Fare una Copia della Cartella  "Android "</CopyRecommend>
+    <RemovePreinstalledShortcuts>Rimuovi Collegamenti Preinstallati sul desktop</RemovePreinstalledShortcuts>
+    <RemoveAppCenter>Rimuovi Sezioni "App Centre" e "Help Centre" </RemoveAppCenter>
+    <DisableLogRotatorSvc>Auto Attivazione BstHdLogLotatorSvc</DisableLogRotatorSvc>
+    <IsAddGoLiveButton>Pulsante per Guardare i Video</IsAddGoLiveButton>
+    <IsAddChatButton>Pulsante per la chat</IsAddChatButton>
+    <IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>Fermarsi Solo nel SysTrayMenu </IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>
+    <IsGamePadEnabled>GamePad(joistick)</IsGamePadEnabled>
+    <IsUseFrontendBanner>Banner Iniziali (2.6 - 2.7)</IsUseFrontendBanner>
+    <RestartBStoApllyChanges>Riavvia BlueStack per Applicare i Cambiamenti</RestartBStoApllyChanges>
+    <RemoveGoogleSignin>Disabilita l'Accesso con Google (Non Raccomandato)</RemoveGoogleSignin>
+    <Instance>Sistema</Instance>
+    <IsGiftPackEnabled>Carte Regalo</IsGiftPackEnabled>
+    <IsFriendsEnabled>Aggiungi Amici</IsFriendsEnabled>
+    <IsWallpaperChangeAllowed>Cambia Sfondo</IsWallpaperChangeAllowed>
+    <WallPaperTempHack>Hack Temporanea per Cambiare lo Sfondo</WallPaperTempHack>
+    <DisableUpdater>Disabilita Auto Aggiornamenti</DisableUpdater>
+    <NotSupport>Questa Versione {0} non e' Supportata!!!</NotSupport>
+    <ManualCheck>Controlla Manualmente</ManualCheck>
+    <Premium>Premium</Premium>
+    <Promo>Promo</Promo>
+    <Theme>Tema</Theme>
+	<LoginWithGoogle>Login with Google</LoginWithGoogle>
+	<AppCenter>Sezioni "App Centre" e "Help Centre"</AppCenter>
+	<DeviceModel>Device Model</DeviceModel>
+    <DeviceCountry>Country</DeviceCountry>
+    <DeviceOperator>Operator</DeviceOperator>	
+  </Labels>
+  <StaticStrings>
+    <Version>Versione</Version>
+    <ClientVersion>Versione del Client</ClientVersion>
+    <ProgramDir>Percorso del Programma</ProgramDir>
+    <UserDataDir>Percorso dei Dati</UserDataDir>
+    <BSRunning>BlueStacks</BSRunning>
+    <ADBConnected>ADB</ADBConnected>
+    <TotalRam>RAM Totale</TotalRam>
+    <FreeSpace>Free</FreeSpace>
+    <AcceptDeleteFolder>Sei Sicuro di Voler Eliminare Questa Cartella?</AcceptDeleteFolder>
+    <AcceptDeleteFile>Sei Sicuro Di Voler Eliminare Questo File?</AcceptDeleteFile>
+    <Before>Prima</Before>
+    <After>Dopo</After>
+    <EnableProfile>Abilita</EnableProfile>
+    <UpdateProfile>Aggiornamento</UpdateProfile>
+    <NewVersion>Nuova Versione Trovata</NewVersion>
+    <NoUpdate>Non Sono Stati Trovati Aggiornamenti</NoUpdate>
+    <RemoveInstances>Rimuovi Tutti gli Account/Instances Aggiuntivi!</RemoveInstances>
+  </StaticStrings>
+  <CheckBoxes>
+    <EnableLog>Attiva Registro</EnableLog>
+    <DialogIncudeSubfolders>Imposta su Tutte le Sottocartelle e i File</DialogIncudeSubfolders>
+    <DontSetExecuteChild>Non Impostare Sulle Sottocartelle o file</DontSetExecuteChild>
+    <InstanceChild>File Secondari</InstanceChild>
+    <LockFactoryReset>Blocca</LockFactoryReset>
+  </CheckBoxes>
+  <RadioButtons>
+    <Every1Day>1 Volta al Giorno</Every1Day>
+    <Every7Day>1 Volta a Settimana</Every7Day>
+    <Every30Day>1 Volta al Mese</Every30Day>
+    <EveryDayOff>Disabilita Autoaggiornamenti</EveryDayOff>
+  </RadioButtons>
+</Lng>

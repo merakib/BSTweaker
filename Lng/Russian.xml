@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<Lng xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tabs>
+    <Main>Главная</Main>
+    <Settings>Настройки</Settings>
+    <Config>Конфигурация</Config>
+    <Helpers>Полезное</Helpers>
+	<Utils>Утилиты</Utils>
+	<Backup>Бэкап</Backup>
+	<FileManager>FM</FileManager>
+    <Oem>Oem</Oem>
+  </Tabs>
+  <GroupBoxes>
+    <Info>Информация</Info>
+    <Actions>Действия</Actions>
+    <DiskSize>Размеры дисков</DiskSize>
+    <Services>Службы</Services>
+    <GUID>GUID</GUID>
+	<CalculatedValues>Рассчитанные значения</CalculatedValues>
+    <Resolution>Разрешение</Resolution>
+    <Phone>Устройство</Phone>
+	<RAM>ОЗУ</RAM>
+	<CompressData>Сжатие данных</CompressData>
+	<Profiles>Профили</Profiles>
+	<FactoryReset>Полный сброс</FactoryReset>
+	<FactoryResetWipe>Общий сброс &amp;&amp; Изменение размера Data + SDCard</FactoryResetWipe>
+	<CheckForUpdBST>BSTweaker. Проверить обновления.</CheckForUpdBST>
+	<Autocheck>Проверка обновлений</Autocheck>
+  </GroupBoxes>
+  <Columns>
+    <Name>Имя</Name>
+	<SLength>Размер</SLength>
+	<Attr>Атрибуты</Attr>
+    <Owner>Владелец</Owner>
+    <Group>Группа</Group>
+	<ProfileActive>Активный</ProfileActive>
+    <ProfileName>Название</ProfileName>
+	<ProfileDataDir>Данные</ProfileDataDir>
+  </Columns>
+  <MenuItems>
+    <CreateFolder>Создать папку</CreateFolder>
+	<DeleteFolderFile>Удалить</DeleteFolderFile>
+	<Rename>Переименовать</Rename>
+    <ChangeOwner>Сменить владельца</ChangeOwner>
+	<ChangePermissions>Изменить разрешения</ChangePermissions>
+	<GoToFolder>Перейти к папке</GoToFolder>
+	<System>System</System>
+    <Data>Data</Data>
+    <SDCard>SDCard</SDCard>
+  </MenuItems>
+  <Buttons>
+    <Apply>Применить</Apply>
+	<Read>Прочитать</Read>
+    <Change>Изменить</Change>
+	<Refresh>Обновить список</Refresh>
+	<ProfileLoad>Загрузить</ProfileLoad>
+    <ProfileCreate>Создать</ProfileCreate>
+	<ProfileDelete>Удалить</ProfileDelete>
+    <OpenFolder>Открыть папку</OpenFolder>
+    <Random>Случайное</Random>
+	<UpFC>Вверх</UpFC>
+    <CopyFC>Копировать</CopyFC>
+    <RefreshFC>Обновить</RefreshFC>
+	<ProgressCancel>Отмена</ProgressCancel>
+    <DialogCancel>Отмена</DialogCancel>
+	<GoTo>Перейти</GoTo>
+	<CheckUpd>Проверить</CheckUpd>
+	<BackupSave>Сохранить</BackupSave>
+    <BackupLoad>Загрузить</BackupLoad>
+	<Close>Закрыть</Close>
+	<Unlock>Разблокировать</Unlock>
+	<Shell>Шелл</Shell>
+	<StartBS>Start BS</StartBS>
+    <StopBS>Stop BS</StopBS>
+    <FullStopBS>Full Stop BS</FullStopBS>
+    <ForceKillBS>Force Kill BS</ForceKillBS>
+    <WipeData>Wipe data</WipeData>
+    <WipeSDCard>Wipe sdcard</WipeSDCard>
+    <WipeDataResize>Resize data</WipeDataResize>
+    <WipeSDCardResize>Resize sdcard</WipeSDCardResize>
+    <HowTo>How To</HowTo>
+	<SuInstall>Установка SuperSu</SuInstall>
+    <SuOpen>Открыть SuperSu</SuOpen>
+  </Buttons>
+  <Labels>	
+    <StopBSForUse>Остановите BlueStacks!</StopBSForUse>
+    <StartBSForUse>Запустите BlueStacks!</StartBSForUse>
+    <GuestResolution>Внутреннее разрешение</GuestResolution>
+    <RootForBlueStacks>Получить Root для BlueStacks</RootForBlueStacks>
+    <DisableWindowOfPurchase>Отключить окно об оплате, рекламу и One Time Setup</DisableWindowOfPurchase>
+	<DPI>DPI (Плотность)</DPI>	
+	<DialogName>Название</DialogName>
+    <DialogOwner>Владелец</DialogOwner>
+    <DialogGroup>Группа</DialogGroup>
+	<DialogOthers>Другие</DialogOthers>
+    <DialogRead>Чтение</DialogRead>
+    <DialogWrite>Запись</DialogWrite>
+    <DialogExecute>Выполнение</DialogExecute>    
+	<CopyRecommend>Перед запуском рекомендуется сделать копию папки "Android"</CopyRecommend>
+	<RemovePreinstalledShortcuts>Удалить предустановленные иконки с рабочего стола</RemovePreinstalledShortcuts>
+	<RemoveAppCenter>Убрать вкладки "Центр приложений" &amp;&amp; "Обратная связь" </RemoveAppCenter>
+	<DisableLogRotatorSvc>Автозапуск BstHdLogLotatorSvc</DisableLogRotatorSvc>
+	<IsAddGoLiveButton>Кнопка Смотреть видео</IsAddGoLiveButton>
+    <IsAddChatButton>Кнопка Чат</IsAddChatButton>
+    <IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>В меню в трее только Выход</IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>
+    <IsGamePadEnabled>Геймпад</IsGamePadEnabled>    
+	<IsUseFrontendBanner>Показывать баннер (2.6 - 2.7)</IsUseFrontendBanner>
+	<RestartBStoApllyChanges>Перезагрузите BlueStacks для применения настроек</RestartBStoApllyChanges>		
+	<RemoveGoogleSignin>Отключить вход в аккаунт Google (не рекомендуется)</RemoveGoogleSignin>
+	<Instance>Экземпляр</Instance>
+	<IsGiftPackEnabled>Вкладка Подарки</IsGiftPackEnabled>
+    <IsFriendsEnabled>Аддон Friends</IsFriendsEnabled>
+    <IsWallpaperChangeAllowed>Смена обоев</IsWallpaperChangeAllowed>
+    <WallPaperTempHack>Временный хак для смены обоев</WallPaperTempHack>
+	<DisableUpdater>Отключить автообновление</DisableUpdater>
+	<NotSupport>Эта версия {0} не поддерживается!!!</NotSupport>
+	<ManualCheck>Проверить вручную</ManualCheck>
+	<Premium>Премиум</Premium>
+    <Promo>Промо</Promo>
+    <Theme>Темы оформления</Theme>
+	<LoginWithGoogle>Вход с помощью аккаунта Google</LoginWithGoogle>
+	<AppCenter>Вкладки "Центр приложений" &amp;&amp; "Обратная связь"</AppCenter>
+	<DeviceModel>Модель устройства</DeviceModel>
+    <DeviceCountry>Страна</DeviceCountry>
+    <DeviceOperator>Оператор</DeviceOperator>	
+  </Labels>
+  <StaticStrings>
+    <Version>Версия</Version>
+	<ClientVersion>Версия клиента</ClientVersion>
+	<ProgramDir>Система</ProgramDir>
+    <UserDataDir>Данные</UserDataDir>
+	<BSRunning>BlueStacks</BSRunning>
+    <ADBConnected>ADB</ADBConnected>
+	<TotalRam>Всего ОЗУ</TotalRam>
+	<FreeSpace>Свободно</FreeSpace>
+	<AcceptDeleteFolder>Вы уверены, что хотите удалить эту папку?</AcceptDeleteFolder>
+    <AcceptDeleteFile>Вы уверены, что хотите удалить этот файл?</AcceptDeleteFile>
+	<Before>До</Before>
+    <After>После</After>
+	<EnableProfile>Включить</EnableProfile>
+    <UpdateProfile>Обновить</UpdateProfile>
+	<NewVersion>Найдена новая версия</NewVersion>
+    <NoUpdate>Обновлений не найдено</NoUpdate>
+	<RemoveInstances>Сначала необходимо удалить все дополнительные экземпляры!</RemoveInstances>
+  </StaticStrings>
+  <CheckBoxes>
+    <EnableLog>Включить лог</EnableLog>	
+	<DialogIncudeSubfolders>Применить к вложенным папкам и файлам</DialogIncudeSubfolders>
+	<DontSetExecuteChild>Не устанавливать аттрибут выполнение для дочерних файлов</DontSetExecuteChild>
+	<InstanceChild>С потомками</InstanceChild>
+	<LockFactoryReset>Заблокировано</LockFactoryReset>
+  </CheckBoxes>
+    <RadioButtons>
+    <Every1Day>1 раз в день</Every1Day>
+    <Every7Day>1 раз в неделю</Every7Day>
+    <Every30Day>1 раз в месяц</Every30Day>
+    <EveryDayOff>Отключить проверку</EveryDayOff>
+  </RadioButtons>
+</Lng>

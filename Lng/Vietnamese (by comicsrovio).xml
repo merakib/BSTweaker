@@ -1,0 +1,159 @@
+﻿<?xml version="1.0"?>
+<Lng xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tabs>
+    <Main>Trang chủ</Main>
+    <Settings>Thiết lập</Settings>
+    <Config>Thông số</Config>
+    <Helpers>Trợ giúp</Helpers>
+    <Utils>Công cụ</Utils>
+    <Backup>Sao lưu</Backup>
+    <FileManager>Quản lí tệp</FileManager>
+    <Oem>Oem</Oem>
+  </Tabs>
+  <GroupBoxes>
+    <Info>Thông tin</Info>
+    <Actions>Hành động</Actions>
+    <DiskSize>Kích cỡ Đĩa</DiskSize>
+    <Services>Dịch vụ</Services>
+    <GUID>GUID</GUID>
+    <CalculatedValues>Tính giá trị</CalculatedValues>
+    <Resolution>Kích cỡ</Resolution>
+    <Phone>Thiết bị</Phone>
+    <RAM>RAM</RAM>
+    <CompressData>Dữ liệu nén</CompressData>
+    <Profiles>Thông tin</Profiles>
+    <FactoryReset>Khôi phục nhà sản xuất</FactoryReset>
+    <FactoryResetWipe>Khôi phục tổng &amp;&amp; Nén Dữ liệu + Thẻ nhớ</FactoryResetWipe>
+    <CheckForUpdBST>BSTweaker. Kiểm tra cập nhật.</CheckForUpdBST>
+    <Autocheck>Kiểm tra cập nhật</Autocheck>
+  </GroupBoxes>
+  <Columns>
+    <Name>Tên</Name>
+    <SLength>Kích cỡ</SLength>
+    <Attr>Attr</Attr>
+    <Owner>Sở hữu</Owner>
+    <Group>Nhóm</Group>
+    <ProfileActive>Kích hoạt</ProfileActive>
+    <ProfileName>Tên</ProfileName>
+    <ProfileDataDir>DataDir</ProfileDataDir>
+  </Columns>
+  <MenuItems>
+    <CreateFolder>Tạo folder</CreateFolder>
+    <DeleteFolderFile>Xóa file</DeleteFolderFile>
+    <Rename>Đổi tên</Rename>
+    <ChangeOwner>Đổi chủ sở hữu</ChangeOwner>
+    <ChangePermissions>Đổi cấp quyền</ChangePermissions>
+    <GoToFolder>Đến Thư mục</GoToFolder>
+    <System>Thiết bị</System>
+    <Data>Dữ liệu</Data>
+    <SDCard>SDCard</SDCard>
+  </MenuItems>
+  <Buttons>
+    <Apply>Áp dụng</Apply>
+    <Read>Đọc</Read>
+    <Change>Thay đổi</Change>
+    <Refresh>Lại</Refresh>
+    <ProfileLoad>Lưu</ProfileLoad>
+    <ProfileCreate>Tạo</ProfileCreate>
+    <ProfileDelete>Xóa</ProfileDelete>
+    <OpenFolder>Mở thư mục</OpenFolder>
+    <Random>Ngẫu nhiên</Random>
+    <UpFC>Lên</UpFC>
+    <CopyFC>Chép</CopyFC>
+    <RefreshFC>Lại</RefreshFC>
+    <ProgressCancel>Hủy</ProgressCancel>
+    <DialogCancel>Hủy</DialogCancel>
+    <GoTo>Đến</GoTo>
+    <CheckUpd>Kiểm tra</CheckUpd>
+    <BackupSave>Lưu</BackupSave>
+    <BackupLoad>Nhập</BackupLoad>
+    <Close>Đóng</Close>
+    <Unlock>Mở khóa</Unlock>
+    <Shell>Shell</Shell>
+    <StartBS>Khởi động BS</StartBS>
+    <StopBS>Dừng BS</StopBS>
+    <FullStopBS>Dừng đầy đủ BS</FullStopBS>
+    <ForceKillBS>Buộc dừng BS</ForceKillBS>
+    <WipeData>Wipe dữ liệu</WipeData>
+    <WipeSDCard>Wipe sdcard</WipeSDCard>
+    <WipeDataResize>Resize dữ liệu</WipeDataResize>
+    <WipeSDCardResize>Resize sdcard</WipeSDCardResize>
+    <HowTo>Làm thế nào</HowTo>
+    <SuInstall>Tải SuperSu</SuInstall>
+    <SuOpen>Mở SuperSu</SuOpen>
+  </Buttons>
+  <Labels>
+    <StopBSForUse>Dừng BS để sử dụng!</StopBSForUse>
+    <StartBSForUse>Khởi động BS để sử dụng!</StartBSForUse>
+    <GuestResolution>Kích cỡ màn hình khách</GuestResolution>
+    <RootForBlueStacks>Root BlueStacks</RootForBlueStacks>
+    <DisableWindowOfPurchase>Tắt Cửa sổ mua hàng (+ QC) và Cài đặt 1 lần</DisableWindowOfPurchase>
+    <DPI>DPI</DPI>
+    <DialogName>Tên</DialogName>
+    <DialogOwner>Owner</DialogOwner>
+    <DialogGroup>Group</DialogGroup>
+    <DialogOthers>Khác</DialogOthers>
+    <DialogRead>Đọc</DialogRead>
+    <DialogWrite>Sửa</DialogWrite>
+    <DialogExecute>Execute</DialogExecute>
+    <CopyRecommend>Trước khi bắt đầu nên tạo một bản copy với tên thư mục "Android"</CopyRecommend>
+    <RemovePreinstalledShortcuts>Loại bỏ shortcut ứng dụng BS trên Desktop</RemovePreinstalledShortcuts>
+    <RemoveAppCenter>Xóa tabs "App Center" &amp;&amp; "Help Center" </RemoveAppCenter>
+    <DisableLogRotatorSvc>BstHdLogLotatorSvc Tự bật</DisableLogRotatorSvc>
+    <IsAddGoLiveButton>Nút Xem Videos</IsAddGoLiveButton>
+    <IsAddChatButton>Nút Chat</IsAddChatButton>
+    <IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>Chỉ dừng ở SysTrayMenu </IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>
+    <IsGamePadEnabled>GamePad</IsGamePadEnabled>
+    <IsUseFrontendBanner>Frontend Banner (2.6 - 2.7)</IsUseFrontendBanner>
+    <RestartBStoApllyChanges>Khởi động lại BlueStacks để áp dụng tất cả các thay đổi</RestartBStoApllyChanges>
+    <RemoveGoogleSignin>Tắt đăng nhập Google (Không khuyến khích)</RemoveGoogleSignin>
+    <Instance>Instance</Instance>
+    <IsGiftPackEnabled>Tab Quà tặng</IsGiftPackEnabled>
+    <IsFriendsEnabled>Tiện ích bạn bè</IsFriendsEnabled>
+    <IsWallpaperChangeAllowed>Thay đổi hình nền</IsWallpaperChangeAllowed>
+    <WallPaperTempHack>Hack tức thời để đổi hình nền</WallPaperTempHack>
+    <DisableUpdater>Tắt Tự động cập nhật</DisableUpdater>
+    <NotSupport>Phiên bản {0} không hỗ trợ!!!</NotSupport>
+    <ManualCheck>Kiểm tra thủ công</ManualCheck>
+    <Premium>Trả phí</Premium>
+    <Promo>Promo</Promo>
+    <Theme>Chủ đề</Theme>
+    <LoginWithGoogle>Đăng nhập với Google</LoginWithGoogle>
+    <AppCenter>Thanh "App Center" &amp;&amp; "Help Center"</AppCenter>
+	<DeviceModel>Device Model</DeviceModel>
+    <DeviceCountry>Country</DeviceCountry>
+    <DeviceOperator>Operator</DeviceOperator>	
+  </Labels>
+  <StaticStrings>
+    <Version>Phiên bản</Version>
+    <ClientVersion>Phiên bản Client</ClientVersion>
+    <ProgramDir>Đường dẫn chương trình</ProgramDir>
+    <UserDataDir>Đường dẫn dữ liệu</UserDataDir>
+    <BSRunning>BlueStacks</BSRunning>
+    <ADBConnected>ADB</ADBConnected>
+    <TotalRam>Tổng RAM</TotalRam>
+    <FreeSpace>Trống</FreeSpace>
+    <AcceptDeleteFolder>Bạn có chắc muốn xóa thư mục này?</AcceptDeleteFolder>
+    <AcceptDeleteFile>Bạn có chắc muốn xóa file này?</AcceptDeleteFile>
+    <Before>Trước</Before>
+    <After>Sau</After>
+    <EnableProfile>Bật</EnableProfile>
+    <UpdateProfile>Cập nhật</UpdateProfile>
+    <NewVersion>Tìm thấy bản mới</NewVersion>
+    <NoUpdate>Không tìm thấy bản mới</NoUpdate>
+    <RemoveInstances>Remove all additional instances!</RemoveInstances>
+  </StaticStrings>
+  <CheckBoxes>
+    <EnableLog>EnableLog</EnableLog>
+    <DialogIncudeSubfolders>Đặt vào mọi sub-thư mục và file</DialogIncudeSubfolders>
+    <DontSetExecuteChild>Đừng đặt execute vào child files</DontSetExecuteChild>
+    <InstanceChild>With childs</InstanceChild>
+    <LockFactoryReset>Khóa</LockFactoryReset>
+  </CheckBoxes>
+  <RadioButtons>
+    <Every1Day>Mỗi lần một ngày</Every1Day>
+    <Every7Day>Mỗi lần một tuần</Every7Day>
+    <Every30Day>Mỗi lần một tháng</Every30Day>
+    <EveryDayOff>Tắt tự cập nhật</EveryDayOff>
+  </RadioButtons>
+</Lng>

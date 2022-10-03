@@ -1,0 +1,158 @@
+﻿<?xml version="1.0"?>
+<Lng xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tabs>
+    <Main>الرئيسية</Main>
+    <Settings>الإعدادات</Settings>
+    <Config>الضبط</Config>
+    <Helpers>تحسينات</Helpers>
+    <Utils>أدوات</Utils>
+    <Backup>نسخ احتياطي</Backup>
+    <FileManager>مدير الملفات</FileManager>
+    <Oem>تشغيل/تعطيل</Oem>
+  </Tabs>
+  <GroupBoxes>
+    <Info>معلومات</Info>
+    <Actions>النشاطات</Actions>
+    <DiskSize>حجم القرص</DiskSize>
+    <Services>المهام</Services>
+    <GUID>الواجهة الرسومية</GUID>
+    <CalculatedValues>حساب القيم</CalculatedValues>
+    <Resolution>دقة الشاشة</Resolution>
+    <Phone>الهاتف</Phone>
+    <RAM>RAM ذاكرة الوصول العشوائي</RAM>
+    <CompressData>ضغط البيانات</CompressData>
+    <Profiles>Profiles</Profiles>
+    <FactoryReset>إعدادت المصنع</FactoryReset>
+    <FactoryResetWipe>SDCard+ إعادة تعيين كلي &amp;&amp; تغيير حجم البيانات</FactoryResetWipe>
+    <CheckForUpdBST>.BSTweaker التحقق من وجود تحديثات</CheckForUpdBST>
+    <Autocheck>تفقد التحديثات</Autocheck>
+  </GroupBoxes>
+  <Columns>
+    <Name>الإسم</Name>
+    <SLength>الحجم</SLength>
+    <Attr>الصلاحيات</Attr>
+    <Owner>المالك</Owner>
+    <Group>المجموعة</Group>
+    <ProfileActive>نشط</ProfileActive>
+    <ProfileName>الإسم</ProfileName>
+    <ProfileDataDir>مسار البيانات</ProfileDataDir>
+  </Columns>
+  <MenuItems>
+    <CreateFolder>إنشاء مجلد</CreateFolder>
+    <DeleteFolderFile>حذف ملف</DeleteFolderFile>
+    <Rename>إعادة التسمية</Rename>
+    <ChangeOwner>تغيير المالك</ChangeOwner>
+    <ChangePermissions>تغيير الصلاحيات</ChangePermissions>
+    <GoToFolder>الإنتقال إلى المجلدات</GoToFolder>
+    <System>النظام</System>
+    <Data>البيانات</Data>
+  </MenuItems>
+  <Buttons>
+    <Apply>تأكيد</Apply>
+    <Read>قراءة</Read>
+    <Change>تغيير</Change>
+    <Refresh>تحديث</Refresh>
+    <ProfileLoad>تحميل</ProfileLoad>
+    <ProfileCreate>إنشاء</ProfileCreate>
+    <ProfileDelete>حذف</ProfileDelete>
+    <OpenFolder>فتح مجلد</OpenFolder>
+    <Random>إختيار عشوائي</Random>
+    <UpFC>أعلى</UpFC>
+    <CopyFC>نسخ</CopyFC>
+    <RefreshFC>تحديث</RefreshFC>
+    <ProgressCancel>إلغاء</ProgressCancel>
+    <DialogCancel>إلغاء</DialogCancel>
+    <GoTo>الوصول إلى</GoTo>
+    <CheckUpd>تفقّد</CheckUpd>
+    <BackupSave>حفظ</BackupSave>
+    <BackupLoad>تحميل</BackupLoad>
+    <Close>إغلاق</Close>
+    <Unlock>فتح</Unlock>
+    <Shell>Shell</Shell>
+    <StartBS>(BS) تشغيل</StartBS>
+    <StopBS>(BS) ايقاف</StopBS>
+    <FullStopBS>(BS) ايقاف كلي</FullStopBS>
+    <ForceKillBS>(BS)ايقاف اجباري</ForceKillBS>
+    <WipeData>مسح البيانات</WipeData>
+    <WipeSDCard>sdcard مسح بيانات</WipeSDCard>
+    <WipeDataResize>تغيير حجم البيانات</WipeDataResize>
+    <WipeSDCardResize>sdcard تغيير حجم بيانات</WipeSDCardResize>
+    <HowTo>كيف يعمل؟</HowTo>
+	<SuInstall>Install SuperSu</SuInstall>
+    <SuOpen>Open SuperSu</SuOpen>
+  </Buttons>
+  <Labels>
+    <StopBSForUse>BlueStacks يرجى إيقاف عن العمل</StopBSForUse>
+    <StartBSForUse>!BlueStacks البدئ في استخدام</StartBSForUse>
+    <GuestResolution>دقة المستخدم</GuestResolution>
+    <RootForBlueStacks>تفعيل صلاحية الروت</RootForBlueStacks>
+    <DisableWindowOfPurchase>تعطيل نافذة الشراء +(الإعلان الكبير) والإعداد لمرة واحدة</DisableWindowOfPurchase>
+    <DPI>DPI عدد النقاط في كل إنش</DPI>
+    <DialogName>الإسم</DialogName>
+    <DialogOwner>المالك</DialogOwner>
+    <DialogGroup>المجموعة</DialogGroup>
+    <DialogOthers>الأخرى</DialogOthers>
+    <DialogRead>قراءة</DialogRead>
+    <DialogWrite>كتابة</DialogWrite>
+    <DialogExecute>تشغيل</DialogExecute>
+    <CopyRecommend>قيل البدء يوصى بأخد نسخة إحتياطية من ملف "Android"</CopyRecommend>
+    <RemovePreinstalledShortcuts>حذف إختصارات التطبيقات من سطح المكتب</RemovePreinstalledShortcuts>
+    <RemoveAppCenter>حذف تبويبات "App Center" &amp;&amp; "Help Center" </RemoveAppCenter>
+    <DisableLogRotatorSvc>BstHdLogLotatorSvc تشغيل تلقائي</DisableLogRotatorSvc>
+    <IsAddGoLiveButton>زر مشاهدة الفيديوهات</IsAddGoLiveButton>
+    <IsAddChatButton>زر الدردشة (الشات)</IsAddChatButton>
+    <IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>إيقاف فقط من شريط المهام</IsOnlyStopButtonToBeAddedInContextMenuOFSysTray>
+    <IsGamePadEnabled>GamePad ذراع التحكم</IsGamePadEnabled>
+    <IsUseFrontendBanner>الشعار الأمامي (2.6 - 2.7)</IsUseFrontendBanner>
+    <RestartBStoApllyChanges>BlueStacks لتطبيق التغييرات أعد تشغيل</RestartBStoApllyChanges>
+    <RemoveGoogleSignin>تعطيل الدخول إلى حسابك على قوقل (غير مستحسن)</RemoveGoogleSignin>
+    <Instance>الجلسة</Instance>
+    <IsGiftPackEnabled>تبويب المٍنح</IsGiftPackEnabled>
+    <IsFriendsEnabled>إضافة الأصدقاء</IsFriendsEnabled>
+    <IsWallpaperChangeAllowed>إمكانية تغيير الخلفية</IsWallpaperChangeAllowed>
+    <WallPaperTempHack>إمكانية تغيير الخلفية مؤقتا</WallPaperTempHack>
+    <DisableUpdater>تعطيل التحديث التلقائي</DisableUpdater>
+    <NotSupport>هذا الإصدار {0} غير مدعوم!!!</NotSupport>
+    <ManualCheck>التحقق اليدوي</ManualCheck>
+    <Premium>Premium الإشتراك المدفوع</Premium>
+    <Promo>الإعلانات الترويجية</Promo>
+    <Theme>المظهر والسمات</Theme>
+    <LoginWithGoogle>تسجيل الدخول بواسطة حسابك على قوقل</LoginWithGoogle>
+	<AppCenter>تبويبات "مركز الألعاب" &amp;&amp; "مركز المساعدة"</AppCenter>
+	<DeviceModel>Device Model</DeviceModel>
+    <DeviceCountry>Country</DeviceCountry>
+    <DeviceOperator>Operator</DeviceOperator>
+  </Labels>
+  <StaticStrings>
+    <Version>الإصدار</Version>
+    <ClientVersion>إصدار العميل</ClientVersion>
+    <ProgramDir>مسار البرنامج</ProgramDir>
+    <UserDataDir>مسار بيانات المستخدم</UserDataDir>
+    <BSRunning>BlueStacks</BSRunning>
+    <ADBConnected>ADB</ADBConnected>
+    <TotalRam>مجموع ذاكرة الوصول العشوائي</TotalRam>
+    <FreeSpace>المساحة المتاحة</FreeSpace>
+    <AcceptDeleteFolder>هل أنت متأكد من رغبتك في حذف هذا المجلد؟</AcceptDeleteFolder>
+    <AcceptDeleteFile>هل أنت متأكد من رغبتك في حذف هذا الملف؟</AcceptDeleteFile>
+    <Before>قبل</Before>
+    <After>بعد</After>
+    <EnableProfile>تمكين</EnableProfile>
+    <UpdateProfile>تحديث</UpdateProfile>
+    <NewVersion>تم إيجاد إصدار جديد</NewVersion>
+    <NoUpdate>لا يوجد أي إصدار جديد حاليا</NoUpdate>
+    <RemoveInstances>حذف جميع الجلسات الإضافية!</RemoveInstances>
+  </StaticStrings>
+  <CheckBoxes>
+    <EnableLog>تمكين السجل</EnableLog>
+    <DialogIncudeSubfolders>تمكين على كل المجلدات الفرعية والملفات</DialogIncudeSubfolders>
+    <DontSetExecuteChild>عدم التنفيد على ملفات الرقابة الأبوية</DontSetExecuteChild>
+    <InstanceChild>الرقابة الأبوية</InstanceChild>
+    <LockFactoryReset>قفل</LockFactoryReset>
+  </CheckBoxes>
+  <RadioButtons>
+    <Every1Day>مرة واحدة في اليوم</Every1Day>
+    <Every7Day>مرة واحدة في الأسبوع</Every7Day>
+    <Every30Day>مرة واحدة في الشهر</Every30Day>
+    <EveryDayOff>تعطيل التحديث</EveryDayOff>
+  </RadioButtons>
+</Lng>
